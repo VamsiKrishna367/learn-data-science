@@ -87,8 +87,6 @@ Open the notebooks inside the `notebooks/` folder and start exploring!
 ## 🌟 Contributing
 Contributions are welcome! Feel free to fork the repository, add your improvements, and submit a pull request.
 
-## 📜 License
-This repository is licensed under the **MIT License**.
 
 ---
 Happy Learning! 🚀
