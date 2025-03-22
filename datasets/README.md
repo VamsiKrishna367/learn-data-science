@@ -46,7 +46,3 @@ The datasets in this directory may be categorized into different formats and use
 ## License
 
 Please check the source and licensing terms of each dataset before use.
-
----
-
-For any questions or issues, contact the repository maintainer.
