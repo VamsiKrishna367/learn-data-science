@@ -32,24 +32,10 @@ learn-data-science/
 │   ├── visualization.py
 │
 ├── projects/                   # Mini projects for learners
-│   ├── project_01_stock_analysis/
-│   ├── project_02_customer_segmentation/
-│   ├── project_03_sentiment_analysis/
-│
-├── assessments/                 # Quizzes and assignments
-│   ├── week_1_quiz.md
-│   ├── week_2_assignment.ipynb
-│   ├── week_3_project/
-│
-├── resources/                   # Additional learning materials
-│   ├── books.md
-│   ├── online_courses.md
-│   ├── cheatsheets/
-│
-└── docs/                        # Documentation and guides
-    ├── installation_guide.md
-    ├── curriculum.md
-    ├── faq.md
+    ├── project_01_stock_analysis/
+    ├── project_02_customer_segmentation/
+    ├── project_03_sentiment_analysis/
+
 ```
 
 ## 🚀 Getting Started
